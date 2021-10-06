@@ -1,2 +1,4 @@
-# EP1-u202017572
-Repositorio Examen Parcial para c4 model design 
+# Repositorio Examen Parcial - c4 model design
+* Seccion: SW53 
+* Alumno: Julio Alexander Salazar Zapata
+* Codigo: u202017572
